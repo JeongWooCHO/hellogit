@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	System.out.println("조개일은 고스톱쟁이");
 	System.out.println("정우여친없어여");
 	System.out.println("정우여친없어요아아앙");
+	System.out.println("정우여친있지 않아아아아아?");
 	
 }
 }
