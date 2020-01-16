@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	System.out.println("정우여친없어여");
 	System.out.println("정우여친없어요아아앙");
 	System.out.println("정우여친있지 않아아아아아?");
+	System.out.println("지인짜아아아 없어????");
 	
 }
 }
